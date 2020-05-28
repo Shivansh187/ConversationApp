@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1043467568606",
+    "firebase_url": "https://conversation-d5f49.firebaseio.com",
+    "project_id": "conversation-d5f49",
+    "storage_bucket": "conversation-d5f49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043467568606:android:a0edb9f24cc08f491e494f",
+        "android_client_info": {
+          "package_name": "shivansh187.conversation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043467568606-16vhbafqjri3r92oo04v7v3inlq2jhca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJscuRdDQt9RmIb95UlIwr6Z1-BCUcXQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043467568606-16vhbafqjri3r92oo04v7v3inlq2jhca.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1043467568606-104gblve72rs1ud9n3lrrfiq7eu16sbg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shivansh.conversation"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
